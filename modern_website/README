@@ -1,0 +1,60 @@
+Responsive Website with Modern UI/UX in React JS with Tailwind
+
+SETUP
+
+npm create vite@latest
+
+√ Project name: ... modern_website
+√ Select a framework: » React
+Scaffolding project in 
+
+C:\Users\Home\OneDrive\Desktop\modern_web
+
+Done. Now run:
+
+  cd modern_website
+  npm install
+  npm run dev
+
+PS C:\Users\Home\OneDrive\Desktop\modern_website> cd modern_websPS C:\Users\Home\OneDrive\Desktop\modern_website\modern_website> npm install
+
+added 27 packages, and audited 28 packages in 14s
+
+6 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\Home\OneDrive\Desktop\modern_website\modern_website> npm run dev
+
+> modern_website@0.0.0 dev
+> vite
+
+
+  VITE v4.2.2  ready in 327 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  press h to show help
+Pnpm install -D tailwindcss postcss autoprefixer\modern_website>      
+
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+PS C:\Users\Home\OneDrive\Desktop\modern_website\modern_website> npx tailwindcss init
+
+Created Tailwind CSS config file: tailwind.config.js
+PS C:\Users\Home\OneDrive\Desktop\modern_website\modern_website> npx tailwindcss init -p
+
+tailwind.config.js already exists.
+Created PostCSS config file: postcss.config.js
+PS C:\Users\Home\OneDrive\Desktop\modern_website\modern_website> npm run dev
+
+> modern_website@0.0.0 dev
+> vite
+
+
+  VITE v4.2.2  ready in 1054 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
